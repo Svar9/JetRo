@@ -1,0 +1,21 @@
+@import "vars";
+@import "vendor/normalize";
+
+/* Vendor libs */
+//@import "vendor/slick";
+
+/* Default styles */
+
+@import "global";
+
+
+/* Blocks */
+@import "blocks/header";
+@import "blocks/menu";
+@import "blocks/slider";
+@import "blocks/bigSlider";
+@import "blocks/smallSlider";
+@import "blocks/items";
+@import "blocks/resent";
+@import "blocks/footer";
+@import "blocks/media";

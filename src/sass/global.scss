@@ -1,0 +1,39 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+a:active,
+a:hover,
+a {
+    display: inline-block;
+    text-decoration: none;
+}
+
+ul,
+li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+p,
+h2,
+h3 {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 10px;
+    max-width: 960px;
+    background-color: #fbfbfb;
+
+}
+
+body {
+    font-family: 'Bebas Neue', cursive;
+    background-color: #fbfbfb;
+}
