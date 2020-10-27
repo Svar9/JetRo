@@ -1,0 +1,12 @@
+.smallSlider .slick-slide {
+   width: 140px !important;
+}
+
+.smallSlider__item {
+   cursor: pointer;
+
+   &:hover {
+      opacity: .8;
+      transition: all .3s;
+   }
+}

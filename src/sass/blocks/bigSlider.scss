@@ -1,0 +1,25 @@
+.bigSlider__item {
+   position: relative;
+}
+
+.bigSlider__box {
+   background-color: #e8663c;
+   opacity: .8;
+   max-width: 410px;
+   color: #fff;
+   padding: 20px 18px;
+   position: absolute;
+   bottom: 35px;
+   left: 35px;
+}
+
+.bigSlider__title {
+   font-size: 18px;
+   margin-bottom: 20px;
+}
+
+.bigSlider__text {
+   font-family: HelveticaNeue, sans-serif;
+   font-weight: 400;
+   font-size: 12px;
+}
